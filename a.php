@@ -81,3 +81,8 @@ function perimetroDeUnTriengulo(int $lado2, int $lado3, int $lado4)
  }
 
  $perimetrorectangulo=perimetroDeUnRectangulo(5,5);
+
+ function  nuevafuncion()
+ {
+     echo "hola"; 
+ }
