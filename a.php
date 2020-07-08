@@ -79,5 +79,5 @@ function perimetroDeUnTriengulo(int $lado2, int $lado3, int $lado4)
      $perimetrorectangulo=(($base3+$altura3)*2);
      return $perimetrorectangulo;
  }
- 
+
  $perimetrorectangulo=perimetroDeUnRectangulo(5,5);
